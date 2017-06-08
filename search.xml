@@ -3,10 +3,30 @@
   
     
     <entry>
+      <title><![CDATA[newtest]]></title>
+      <url>/2017/06/08/newtest/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[firstPage]]></title>
       <url>/2017/06/08/firstPage/</url>
       <content type="html"><![CDATA[<h2 id="测试页面"><a href="#测试页面" class="headerlink" title="测试页面"></a>测试页面</h2>]]></content>
       
+        <categories>
+            
+            <category> react </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> react </tag>
+            
+        </tags>
         
     </entry>
     

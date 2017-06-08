@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.iloveplus.cn/"/>
-  <updated>2017-06-08T02:45:59.000Z</updated>
+  <updated>2017-06-08T08:48:57.000Z</updated>
   <id>http://www.iloveplus.cn/</id>
   
   <author>
@@ -16,11 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>newtest</title>
+    <link href="http://www.iloveplus.cn/2017/06/08/newtest/"/>
+    <id>http://www.iloveplus.cn/2017/06/08/newtest/</id>
+    <published>2017-06-08T08:47:07.000Z</published>
+    <updated>2017-06-08T08:48:57.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>firstPage</title>
     <link href="http://www.iloveplus.cn/2017/06/08/firstPage/"/>
     <id>http://www.iloveplus.cn/2017/06/08/firstPage/</id>
     <published>2017-06-08T02:43:10.000Z</published>
-    <updated>2017-06-08T02:45:59.000Z</updated>
+    <updated>2017-06-08T08:34:50.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="测试页面"><a href="#测试页面" class="headerlink" title="测试页面"></a>测试页面</h2>]]></content>
     
@@ -30,6 +44,10 @@
     
     </summary>
     
+      <category term="react" scheme="http://www.iloveplus.cn/categories/react/"/>
+    
+    
+      <category term="react" scheme="http://www.iloveplus.cn/tags/react/"/>
     
   </entry>
   
